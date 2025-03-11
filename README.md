@@ -21,7 +21,7 @@ Plagiarism Detector is an text similarity checker that helps users compare two t
 - Clone the Repository:
 
 ```bash
-  git clone https://github.com/your-username/Plagiarism-Detector-Pro.git
+  git clone [https://github.com/your-username/Plagiarism-Detector-Pro.git](https://github.com/AbhayCodes-dev/Plagiarism-Detector.git)
 cd Plagiarism-Detector-Pro
 ```
 
